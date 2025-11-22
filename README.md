@@ -24,4 +24,5 @@ Initially started as a university project, LocalChess is a native Android chess 
 
 ## Get in Touch
 Email: [Benjamin.sebastien.read@gmail.com](mailto:benjamin.sebastien.read@gmail.com)
+
 Linkedin: [https://www.linkedin.com/in/benjy-read-56a142388/](https://www.linkedin.com/in/benjy-read-56a142388/)
