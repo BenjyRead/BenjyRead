@@ -4,6 +4,8 @@ I'm a 3rd year Software Engineering student at the University of Cardiff, and ha
 
 My best programming languages are Python, Rust, Kotlin, and Typescript, but I have experience in a wide variety of languages, technologies and disciplines.
 
+![](https://counter.kuber.studio/BenjyRead/dark/count.svg)
+
 ## Most Notable Open-Source Projects
 
 ### JNI-Stockfish
@@ -26,3 +28,4 @@ Initially started as a university project, LocalChess is a native Android chess 
 Email: [Benjamin.sebastien.read@gmail.com](mailto:benjamin.sebastien.read@gmail.com)
 
 Linkedin: [https://www.linkedin.com/in/benjy-read-56a142388/](https://www.linkedin.com/in/benjy-read-56a142388/)
+
