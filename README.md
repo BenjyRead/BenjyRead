@@ -1,8 +1,8 @@
 ## Hello, I'm Benjy
 
-I'm a 3rd year Software Engineering student at the University of Cardiff, and have been programming for almost a decade. I have experience working with a variety of clients including Cybersecurity firms, NHS trusts, and small businesses.
+I'm a recent Cardiff University graduate, having completed a First Class degree in Software Engineering, and have been programming for almost a decade. I have experience working with a variety of clients including cybersecurity firms, NHS trusts, and small businesses.
 
-My best programming languages are Python, Rust, Kotlin, and Typescript, but I have experience in a wide variety of languages, technologies and disciplines.
+My best programming languages are Python, Rust, Kotlin, and Typescript, but I have experience in a wide variety of languages, technologies and disciplines. 
 
 ![](https://counter.kuber.studio/BenjyRead/dark/count.svg)
 
